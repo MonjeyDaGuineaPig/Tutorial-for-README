@@ -12,4 +12,6 @@
 
 #
 
-If you want a giant title, Then put a hastag, then a space, then the words you want and It is a giant title! The more hashtags you put, the smaller it gets.
+-If you want a giant title, Then put a hastag, then a space, then the words you want and It is a giant title! 
+
+-The more hashtags you put, the smaller the title gets.(SUBTITLE)
